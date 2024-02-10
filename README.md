@@ -6,5 +6,7 @@ Examples of language family classifications that are currently the subject of on
 If you have any questions or comments, please email the PCC Standing Committeee on Application chair (TJ Kao, tjkao@ucdavis.edu)
 
 [1]  https://en.wikipedia.org/wiki/Songhay_languages; https://www.ethnologue.com/subgroup/40/
+
 [2]  https://en.wikipedia.org/wiki/Dogon_languages; https://www.ethnologue.com/subgroup/1842/
+
 [3]  https://en.wikipedia.org/wiki/Kiwaian_languages; https://www.ethnologue.com/subgroup/2305/
